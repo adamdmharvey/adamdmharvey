@@ -12,3 +12,4 @@ Averaging over 3500 code contributions to GitHub.com (inner and open source) per
   * [`CODEOWNER` for the Backstage CircleCI Plugin](https://github.com/backstage/backstage/tree/master/plugins/circleci), extending the visibility of CircleCI workflows up into Backstage.
 * CircleCI
   * Contributed [over twenty pull requests](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Aadamdmharvey+archived%3Afalse+org%3ACircleCI-Public) to CircleCI's public organization, ranging from fixes to CircleCI Orbs (reusable software libraries for use in CI/CD workflows) to documentation enhancements.
+  * Nominated [CircleCI Champion of the Month for April 2023](https://discuss.circleci.com/t/champion-of-the-month-adam-harvey/47679).
